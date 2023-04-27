@@ -36,11 +36,3 @@ Unity3D, Blender
   </a>
 
 </div>
-
-
-###
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bathinjan.bathinjan&left_color=darkgray&right_color=black&left_text=Visits"  />
-</div>
