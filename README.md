@@ -42,5 +42,5 @@ Unity3D, Blender
 
 
 <div align="center">
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bathinjan" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bathinjan.Bathinjan&left_color=darkgray&right_color=black&left_text=Visits"  />
 </div>
