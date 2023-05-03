@@ -15,7 +15,7 @@
 
 Game Development
 
-C#, Python, Java
+C#, Python, Java, HTML/CSS/JavaScript
 
 Unity3D, Blender
 
