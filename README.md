@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQFJGn6c3HIH7Q/profile-displaybackgroundimage-shrink_350_1400/0/1682537858084?e=1687996800&v=beta&t=eE1z8e48WATW5eb-Ph-yR-SU-Su9rKL-feax3rLeTD4" />
+<img src="https://ibb.co/55Gk2B7" />
 </div>
 
 ###
