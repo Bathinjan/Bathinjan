@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-<img src="https://ibb.co/55Gk2B7" />
+<img src="https://gcdnb.pbrd.co/images/A2275DVr67A5.jpg?o=1" />
 </div>
 
 ###
