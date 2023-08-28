@@ -13,9 +13,11 @@
 
 ###
 
-Game Development
+Game and Web Development
 
-C#, Python, Java, HTML/CSS/JavaScript
+C#, Python, Java, HTML/CSS/JS
+
+NodeJS, React
 
 Unity3D, Blender
 
