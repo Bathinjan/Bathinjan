@@ -7,12 +7,6 @@
 
 ###
 
-<div align="center">
-<img src="https://gcdnb.pbrd.co/images/A2275DVr67A5.jpg?o=1" />
-</div>
-
-###
-
 Game and Web Development
 
 C#, Python, Java, HTML/CSS/JS
